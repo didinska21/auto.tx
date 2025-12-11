@@ -1,0 +1,45 @@
+[
+  {
+    "id": "tempo",
+    "label": "Tempo",
+    "rpcEnv": "RPC_TEMPO",
+    "tokens": [
+      {
+        "name": "Tempo Token 1",
+        "symbol": "TT1",
+        "address": "0x0000000000000000000000000000000000000001"
+      },
+      {
+        "name": "Tempo Token 2",
+        "symbol": "TT2",
+        "address": "0x0000000000000000000000000000000000000002"
+      }
+    ]
+  },
+  {
+    "id": "diamante",
+    "label": "Diamante",
+    "rpcEnv": "RPC_DIAMANTE",
+    "tokens": [
+      {
+        "name": "Diamante Token A",
+        "symbol": "DTA",
+        "address": "0x0000000000000000000000000000000000000003"
+      }
+    ]
+  },
+
+  {
+    "id": "zama",
+    "label": "Zama",
+    "rpcEnv": "RPC_ZAMA",
+    "tokens": []
+  },
+
+  {
+    "id": "asp",
+    "label": "ASP Chain",
+    "rpcEnv": "RPC_ASP",
+    "tokens": []
+  }
+]
