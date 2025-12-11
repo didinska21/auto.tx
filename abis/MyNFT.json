@@ -1,0 +1,13 @@
+{
+  "abi": [
+    {
+      "inputs": [
+        { "internalType": "string", "name": "name_", "type": "string" },
+        { "internalType": "string", "name": "symbol_", "type": "string" }
+      ],
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    }
+  ],
+  "bytecode": "0x608060405234801561001057600080fd5b5060405161014038038061014083398101604081905261002f9161003f565b60005561005e565b60006020828403121561004557600080fd5b81516001600160a01b038116811461005b57600080fd5b9392505050565b6100d78161006d6000396000f3fe6080604052600080fdfea2646970667358221220c587d1b1b5ddf3c4c1a5d41c1a838073116cb92dce2fbf2e6c777d2f4cab7ba564736f6c63430008140033"
+}
