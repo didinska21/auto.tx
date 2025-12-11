@@ -64,7 +64,7 @@ async function selectChainMenu() {
   currentChain = chains[idx];
 
   const rpc = process.env[currentChain.rpcEnv];
-  const pk = process.env[currentChain.pkEnv];
+  const pk = process.env.PRIVATE_KEY;   // selalu ambil dari 1 sumber
 
   if (!rpc || !pk) {
     console.log(
